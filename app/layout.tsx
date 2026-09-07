@@ -29,7 +29,7 @@ export default function RootLayout({
             </Link>
             <nav className="flex items-center gap-3 text-sm">
               <a
-                href="https://github.com/SEIFSEIF4/backstage/blob/main/PLUGINS.md"
+                href="https://github.com/seifelesllamseif/backstage/blob/main/PLUGINS.md"
                 target="_blank"
                 rel="noreferrer"
                 className="text-zinc-600 transition hover:text-zinc-900"
@@ -44,7 +44,7 @@ export default function RootLayout({
         <footer className="mx-auto w-full max-w-5xl px-4 pb-10 text-xs text-zinc-500">
           Plugins are community-submitted.{' '}
           <a
-            href="https://github.com/SEIFSEIF4/backstage/issues/new?title=Marketplace%20submission:%20"
+            href="https://github.com/seifelesllamseif/backstage/issues/new?title=Marketplace%20submission:%20"
             className="underline"
             target="_blank"
             rel="noreferrer"

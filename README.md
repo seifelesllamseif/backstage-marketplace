@@ -1,7 +1,7 @@
 # backstage-marketplace
 
 Public plugin marketplace for
-[Backstage](https://github.com/SEIFSEIF4/backstage): browse plugins,
+[Backstage](https://github.com/seifelesllamseif/backstage): browse plugins,
 vote with your GitHub account, and serve the catalog API
 (`/api/registry`) that Backstage installs fetch.
 
