@@ -16,6 +16,7 @@ export async function GET() {
         author: p.author,
         group: p.group,
         repoUrl: p.repo_url,
+        ...(p.icon_url ? { iconUrl: p.icon_url } : {}),
         ...(p.screenshots ? { screenshots: p.screenshots } : {}),
         score: p.score,
         votes: p.votes

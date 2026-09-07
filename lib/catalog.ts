@@ -8,6 +8,7 @@ export type PluginRow = {
   author: string
   group: string
   repo_url: string
+  icon_url: string | null
   screenshots: string[] | null
   created_at: string
 }
